@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\app\ultra_simple\main.cpp(93,46): error C3688:  invalid literal suffix 'RPLIDAR_SDK_VERSION'; literal operator or literal operator template 'operator ""RPLIDAR_SDK_VERSION' not found
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\app\ultra_simple\main.cpp(205,1): warning C4996:  'rp::standalone::rplidar::RPlidarDriver::grabScanData': was declared deprecated
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_driver.h(257): message :  see declaration of 'rp::standalone::rplidar::RPlidarDriver::grabScanData'
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\app\ultra_simple\main.cpp(208,1): warning C4996:  'rp::standalone::rplidar::RPlidarDriver::ascendScanData': was declared deprecated
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_driver.h(285): message :  see declaration of 'rp::standalone::rplidar::RPlidarDriver::ascendScanData'

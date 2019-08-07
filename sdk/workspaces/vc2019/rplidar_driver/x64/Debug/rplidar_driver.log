@@ -1,0 +1,47 @@
+﻿  net_serial.cpp
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_serial.cpp(154,7): warning C4267:  'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  net_socket.cpp
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_serial.cpp(167,7): warning C4267:  'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(238,47): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(243,47): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(514,1): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(533,1): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(629,38): warning C4244:  'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(853,19): warning C4244:  'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  timer.cpp
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\net_socket.cpp(867,19): warning C4244:  'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+  thread.cpp
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\winthread.hpp(53,8): warning C4312:  'reinterpret_cast': conversion from '_word_size_t' to 'HANDLE' of greater size
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\winthread.hpp(55,59): warning C4312:  'reinterpret_cast': conversion from '_word_size_t' to 'HANDLE' of greater size
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\winthread.hpp(88,5): warning C4312:  'reinterpret_cast': conversion from '_word_size_t' to 'HANDLE' of greater size
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\winthread.hpp(98,80): warning C4312:  'reinterpret_cast': conversion from '_word_size_t' to 'HANDLE' of greater size
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\winthread.hpp(129,12): warning C4312:  'reinterpret_cast': conversion from '_word_size_t' to 'HANDLE' of greater size
+  rplidar_driver.cpp
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\arch\win32\winthread.hpp(132,59): warning C4312:  'reinterpret_cast': conversion from '_word_size_t' to 'HANDLE' of greater size
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_protocol.h(59,16): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\include\rplidar_cmd.h(256,20): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\rplidar_driver_serial.h(79,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\rplidar_driver_TCP.h(69,1): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\rplidar_driver.cpp(1272,33): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\rplidar_driver.cpp(1438,28): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\dave\dev\touch\rplidar\rplidar_sdk-master\sdk\sdk\src\rplidar_driver.cpp(2014,35): warning C4267:  'initializing': conversion from 'size_t' to '_u8', possible loss of data
+  rplidar_driver.vcxproj -> C:\Users\dave\source\repos\rplidrawTOP\x64\Debug\rplidar_driver.lib
